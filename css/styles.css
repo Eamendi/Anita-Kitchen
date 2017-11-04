@@ -22,7 +22,7 @@
   align-items: center;
 }
 .sec2 :hover{
-background-image: url(../assets/foodtop/dinner2.jpg);
+background-image: url(../image/foodtop/dinner2.jpg);
 color: black;
 
 }
@@ -31,7 +31,7 @@ color: black;
   height: 150px;
   width: 350px;
   color: #ffffff;
-  background: url(../assets/foodtop/breakfast.jpg);
+  background: url(../image/foodtop/breakfast.jpg);
   text-align: center;
   padding-top: 15px;
   padding-bottom: 15px;
@@ -41,7 +41,7 @@ color: black;
   height: 150px;
   width: 330px;
   color: #ffffff;
-  background: url(../assets/foodtop/lunch.jpg);
+  background: url(../image/foodtop/lunch.jpg);
   padding-top: 15px;
   padding-bottom: 15px;
   text-align: center;
@@ -50,7 +50,7 @@ color: black;
   height: 150px;
   color: #ffffff;
   width: 326px;
-  background: url(../assets/foodtop/dinner.jpg);
+  background: url(../image/foodtop/dinner.jpg);
   padding-top: 15px;
   padding-bottom: 15px;
   text-align: center;
@@ -130,7 +130,7 @@ i {
 
 
 #food-types {
-  background-image: url(../assets/backgrounds/foodsBg.jpg);
+  background-image: url(../image/backgrounds/foodsBg.jpg);
   margin-top: 100px;
   text-align: center;
   height: 500px;
@@ -194,7 +194,7 @@ i {
 .subscribe{
   text-align: center;
   color: white;
-  background-image: url(../assets/backgrounds/subscribe.jpg);
+  background-image: url(../image/backgrounds/subscribe.jpg);
   padding-top: 30px;
   padding-bottom: 30px;
   padding-top: 70px;
