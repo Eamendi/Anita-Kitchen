@@ -15,6 +15,8 @@ CSS[styles]
 css styles have been able to be employed so that the images and backgrounds have been able to be positioned and floated perfectly in place .
 
 Setup/Installation Requirements
+* Internet connection
+* Laptop
 
 open browser
 visit https://Eamendi/Anita-Kitchen
